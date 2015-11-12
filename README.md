@@ -7,6 +7,7 @@ Esse arquivo faz parte do meu primeiro repositório usando a ferramenta Git.
 $ touch README.md
 $ git add .
 $ git commit -m "Meu primeiro commit"
+$ git log --full-diff -p .
 ```
 
 ## Contribuidor
