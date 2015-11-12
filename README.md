@@ -10,7 +10,7 @@ $ git commit -m "Meu primeiro commit"
 $ git log --full-diff -p .
 ```
 
-## Contribuidor
+## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
 * Outra Pessoa <outrapessoa@gmail.com>
