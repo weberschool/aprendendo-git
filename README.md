@@ -10,6 +10,12 @@ $ git commit -m "Meu primeiro commit"
 $ git log --full-diff -p .
 ```
 
+## Criando Branchs
+
+```shell
+$ git checkout -b <name>
+```
+
 ## Repositório Remoto
 
 ```shell
