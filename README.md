@@ -10,16 +10,13 @@ $ git commit -m "Meu primeiro commit"
 $ git log --full-diff -p .
 ```
 
-## Criando Branchs
+## Manipulando Branchs
 
 ```shell
 $ git checkout -b <name>
-```
-
-## Excluindo Branchs
-
-```shell
 $ git branch -d <branch-name>
+$ git checkout -b <branch-name> origin/<branch-name>
+$ git checkout --track origin/<branch-name>
 ```
 
 ## Repositório Remoto
