@@ -16,6 +16,12 @@ $ git log --full-diff -p .
 $ git checkout -b <name>
 ```
 
+## Excluindo Branchs
+
+```shell
+$ git branch -d <branch-name>
+```
+
 ## Repositório Remoto
 
 ```shell
