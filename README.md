@@ -13,3 +13,4 @@ $ git log --full-diff -p .
 ## Contribuidor
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
+* Outra Pessoa <outrapessoa@gmail.com>
