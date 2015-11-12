@@ -14,3 +14,4 @@ $ git log --full-diff -p .
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
 * Outra Pessoa <outrapessoa@gmail.com>
+* Fulano de Tal <fulano@gmail.com>
