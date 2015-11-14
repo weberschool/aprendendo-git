@@ -28,6 +28,12 @@ $ git pull
 $ git fetch
 ```
 
+## Primeiro Push
+```shell
+$ git remote add origin <url>                
+$ git push -u origin master #somente a primeira vez
+```
+
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
