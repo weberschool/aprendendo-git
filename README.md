@@ -5,9 +5,9 @@ Esse arquivo faz parte do meu primeiro repositório usando a ferramenta Git.
 
 ```shell
 $ touch README.md
-$ git add .
-$ git commit -m "Meu primeiro commit"
-$ git log --full-diff -p .
+$ git add . #adiciona a modificaçao
+$ git commit -m "Meu primeiro commit" #omita o(s) arquivos adicionados pelo comando anterior
+$ git log --full-diff -p . #monstra a diferenca no arquivo modificado
 ```
 
 ## Manipulando Branchs
