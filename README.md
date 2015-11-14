@@ -40,6 +40,11 @@ $ git fetch
 $ git log --oneline --graph --decorate --all
 ```
 
+## git-flow
+```shell
+$ brew install git-flow
+```
+
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
