@@ -28,6 +28,14 @@ $ git pull
 $ git fetch
 ```
 
+## Comandos de log
+
+```shell
+$ git log
+$ git log --full-diff -p README.md
+$ git log --oneline --graph --decorate --all
+```
+
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
