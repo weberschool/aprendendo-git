@@ -42,6 +42,14 @@ $ git remote add origin <url>
 $ git push -u origin master #somente a primeira vez
 ```
 
+## Trabalhando com tags
+
+```shell
+$ git tag #lista as tags
+$ git tag -a <tag> -m <message> #adiciona uma nova tag
+$ git tag -d <tag>  #apaga a tag
+$ git show <tag> #mostra o log da tag
+```
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
