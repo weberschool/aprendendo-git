@@ -34,6 +34,11 @@ $ git pull
 $ git fetch
 ```
 
+## git-log
+```shell
+$ git log --oneline --graph --decorate --all
+```
+
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
