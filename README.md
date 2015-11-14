@@ -53,5 +53,6 @@ $ git show <tag> #mostra o log da tag
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
-* Outra Pessoa <outrapessoa@gmail.com>
+* Marcelo Bião <marcelobiao@gmail.com>
+* Fábio Bispo <fabio@gmail.com>
 * Fulano de Tal <fulano@gmail.com>
