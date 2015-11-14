@@ -44,8 +44,6 @@ $ git push -u origin master #somente a primeira vez
 ```
 
 
-
-
 ## Trabalhando com tags
 ```shell
 $ git tag #lista as tags
