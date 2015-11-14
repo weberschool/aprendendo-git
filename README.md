@@ -54,7 +54,6 @@ $ git show <tag> #mostra o log da tag
 ```
 
 ## Formulário de contato!
->>>>>>> 39cb4b3ca1f015a51a68ea78b6435c72161c797c
 
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
