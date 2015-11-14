@@ -14,6 +14,9 @@ $ git log --full-diff -p .
 
 ```shell
 $ git checkout -b <name>
+# ou
+$ git branch <name>
+$ git checkout <name>
 ```
 
 ## Excluindo Branchs
