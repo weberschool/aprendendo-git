@@ -53,8 +53,8 @@ $ git tag -d <tag>  #apaga a tag
 $ git show <tag> #mostra o log da tag
 ```
 
-##Formulario de contato
-
+## Formulário de contato!
+>>>>>>> 39cb4b3ca1f015a51a68ea78b6435c72161c797c
 
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
