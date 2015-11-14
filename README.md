@@ -36,6 +36,12 @@ $ git log --full-diff -p README.md
 $ git log --oneline --graph --decorate --all
 ```
 
+## Primeiro Push
+```shell
+$ git remote add origin <url>                
+$ git push -u origin master #somente a primeira vez
+```
+
 ## Contribuidores
 * Jonata Weber <jonataa@gmail.com>
 * Romualdo Andre <romualdoandre@gmail.com>
