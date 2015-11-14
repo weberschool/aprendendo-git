@@ -37,13 +37,16 @@ $ git log --oneline --graph --decorate --all
 ```
 
 ## Primeiro Push
+
 ```shell
 $ git remote add origin <url>                
 $ git push -u origin master #somente a primeira vez
 ```
 
-## Trabalhando com tags
 
+
+
+## Trabalhando com tags
 ```shell
 $ git tag #lista as tags
 $ git tag -a <tag> -m <message> #adiciona uma nova tag
